@@ -40,7 +40,6 @@ Huffman compression implementation with bit-level encoding.
 
 - Building systems that are **reliable in production**, not just correct
 - Owning services end-to-end (design → deploy → operate)
-- Understanding systems deeply (compilers, memory, networking)
 
 ---
 
