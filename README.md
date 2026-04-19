@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I’m Nicolas 👋
 
-<!--
-**nicolasabelanet/nicolasabelanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer focused on distributed systems, infrastructure, and reliability.  
+Currently working with Python, Kubernetes, and building production systems end-to-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🛡️ SpamShield
+ML-powered spam detection service with FastAPI, Prometheus metrics, and CI/CD.
+- Model training + inference pipeline
+- Signed API requests
+- Dockerized + tested
+
+### λ Lambda Interpreter (Rust)
+Minimal lambda calculus interpreter with type inference and REPL.
+- Call-by-value / call-by-name evaluation
+- Hindley-Milner style typing
+- Span-aware error handling
+
+### 📦 HCompress (Rust)
+Huffman compression implementation with bit-level encoding.
+- Custom BitReader / BitWriter
+- Property-based testing
+- Streaming support
+
+---
+
+## 🛠 Tech I Use
+
+- **Languages:** Python, Rust, Go (learning)
+- **Infra:** Kubernetes, Docker, CI/CD
+- **Backend:** FastAPI, async systems, APIs
+- **Other:** Linux, Neovim, systems design
+
+---
+
+## 📫 Reach Me
+
+- LinkedIn: <your link>
+- Email: <optional>
