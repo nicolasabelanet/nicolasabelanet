@@ -1,6 +1,6 @@
 # Hi, I’m Nicolas 👋
 
-Backend engineer focused on distributed systems, infrastructure, and reliability.  
+Backend engineer owning distributed systems, infrastructure, and production reliability.
 Currently working with Python, Kubernetes, and building production systems end-to-end.
 
 ---
@@ -8,7 +8,7 @@ Currently working with Python, Kubernetes, and building production systems end-t
 ## 🚀 Featured Projects
 
 ### 🛡️ [SpamShield](https://github.com/nicolasabelanet/spamshield)
-ML-powered spam detection service with FastAPI, Prometheus metrics, and CI/CD.
+Production-style ML service with training pipeline, signed API, metrics, and CI/CD
 - Model training + inference pipeline
 - Signed API requests
 - Dockerized + tested
@@ -32,7 +32,15 @@ Huffman compression implementation with bit-level encoding.
 - **Languages:** Python, Rust, Go (learning)
 - **Infra:** Kubernetes, Docker, CI/CD
 - **Backend:** FastAPI, async systems, APIs
-- **Other:** Linux, Neovim, systems design
+- **Environment:** Linux, tmux, Neovim
+
+---
+
+ ## 🧠 What I Care About
+
+- Building systems that are **reliable in production**, not just correct
+- Owning services end-to-end (design → deploy → operate)
+- Understanding systems deeply (compilers, memory, networking)
 
 ---
 
