@@ -7,19 +7,19 @@ Currently working with Python, Kubernetes, and building production systems end-t
 
 ## 🚀 Featured Projects
 
-### 🛡️ SpamShield
+### 🛡️ [SpamShield](https://github.com/nicolasabelanet/spamshield)
 ML-powered spam detection service with FastAPI, Prometheus metrics, and CI/CD.
 - Model training + inference pipeline
 - Signed API requests
 - Dockerized + tested
 
-### λ Lambda Interpreter (Rust)
+### λ [Lambda Interpreter](https://github.com/nicolasabelanet/lambda) (Rust)
 Minimal lambda calculus interpreter with type inference and REPL.
 - Call-by-value / call-by-name evaluation
 - Hindley-Milner style typing
 - Span-aware error handling
 
-### 📦 HCompress (Rust)
+### 📦 [HCompress](https://github.com/nicolasabelanet/hcompress) (Rust)
 Huffman compression implementation with bit-level encoding.
 - Custom BitReader / BitWriter
 - Property-based testing
@@ -38,5 +38,5 @@ Huffman compression implementation with bit-level encoding.
 
 ## 📫 Reach Me
 
-- LinkedIn: <your link>
-- Email: <optional>
+- LinkedIn: https://www.linkedin.com/in/nicolas-abelanet/
+- Email: mail@nicolasabelanet.com
